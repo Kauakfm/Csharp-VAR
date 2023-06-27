@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "h8+8QK3irlsxSdrMG6I11P8wwjKcTa2pZRLPwP6esKTkpsjeGpkZOw0EPc+DD4dptjTqbn5hiI4cnFQFJdWpRg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kaua\\Documents\\DryelleEbelin\\c#\\ConsoleConsumer\\EmailSerivceConsumer\\EmailSerivceConsumer\\EmailSerivceConsumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kaua\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Kaua\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\Kaua\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Kaua\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
